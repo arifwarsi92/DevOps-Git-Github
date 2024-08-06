@@ -16,7 +16,7 @@ In the VCS we can revert back to our old version if we face any issue in our cur
    .Click "Next" on the initial screen.<br>
    .Choose the installation directory or leave the default path.<br>
    .Select components to install (the default settings are usually fine).<br>
-   .Choose the default editor used by Git (e.g., Vim, Nano, or Visual Studio Code).<br>
+   .Choose the default editor used by Git (e.g., Vim, Nano, or Visual Studio Code).
 5.To check if git is installed type git --version in your terminal.It will show you the current version of git.<br>
 6.I downloaded the VS code editer
 
