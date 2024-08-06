@@ -24,9 +24,11 @@ Git uses your name and your email-id to identify who make changes.So first Confi
 ###### Open your Visual Studio Code and Create a folder named Git Repo or xyz and then click create and once you open it will ask permission click yes. #####
 ##### In this step you simply do right click on the folder you created and select "open in intigrated terminal". ##### 
 ###### Configure User name & user email. ######
-1.To set your user name.Type this command.<br>
+1.To Initialize a Repository.
+   ####### git init ########
+2.To set your user name.Type this command.<br>
    git config --global user.name "xyz".<br>
-2. To set your email.Type this command.<br>
+3. To set your email.Type this command.<br>
    git config --global user.email "xyz@gmail.com"
 
 
