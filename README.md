@@ -30,6 +30,35 @@ Git uses your name and your email-id to identify who make changes.So first Confi
    git config --global user.name "xyz".<br>
 3. To set your email.Type this command.<br>
    git config --global user.email "xyz@gmail.com"
+##### Git Commands:- ####
+1.Git add- Git add file_name (This command adds a file to the staging area) <br>
+2.Git Commit- Git commit command record all the changes made into repository. Creating permanent record in repository 
+  history (git commit -m "type msg") <br>
+3.Git log- Shows the commit history of the current branch and it will show the person who did that commit and time a well 
+  (git log) <br>
+4.Git diff- This command is used to see differences between two files once we committed. Before and after comparison (git 
+   diff) <br>
+5.Git show- This command is used to see previous file or some specific file (git show id:file_name) <br>
+6.Git Checkout- This command basically check some old specific file (git checkout id:file_name) <br>
+7.Git restore-This command use to restore the previous file which has already been committed(git restore --staged file_name) <br>
+8.Git reset- This command is use to go on step back or we can say it will get the previous file (git reset --hard HEAD^) <br>
+9.Git log -p -2- This command will check last two commit.<br>
+10.Git log --state - Summary of changes. <br>
+11.Git log --pretty=oneline -This command will show the log in one line<br>
+12.Git log --pretty=format:"%h - %an , %ar:%s". <br>
+13.Git Pull-This command fetches and merges changes on the remote server to your working directory (git pull link).<br>
+14.Git Push-This command sends the committed changes of master branch to your remote repository (git push variable_name).<br>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
