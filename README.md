@@ -9,15 +9,15 @@ In the VCS we can revert back to our old version if we face any issue in our cur
 2-Collaboration:-Multiple people can work on same project.<br>
 3.Tracking Changes:- You can check specific changes and by whom.
 ##### Installation:-
-1. Go to the official website 'https://git-scm.com/'
-2. Click on "Downloads" and select "Windows" to download the Git installer.
-3. Click on the Installer and double click
-4. Follow the Set-up Wizard.
-   .Click "Next" on the initial screen.
-   .Choose the installation directory or leave the default path.
-   .Select components to install (the default settings are usually fine).
-   .Choose the default editor used by Git (e.g., Vim, Nano, or Visual Studio Code).
-5.To check if git is installed type git --version in your terminal.It will show you the current version of git.
+1. Go to the official website 'https://git-scm.com/'.<br>
+2. Click on "Downloads" and select "Windows" to download the Git installer.<br>
+3. Click on the Installer and double click<br>
+4. Follow the Set-up Wizard.<br>
+   .Click "Next" on the initial screen.<br>
+   .Choose the installation directory or leave the default path.<br>
+   .Select components to install (the default settings are usually fine).<br>
+   .Choose the default editor used by Git (e.g., Vim, Nano, or Visual Studio Code).<br>
+5.To check if git is installed type git --version in your terminal.It will show you the current version of git.<br>
 6.I downloaded the VS code editer
 
 
