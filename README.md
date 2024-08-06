@@ -18,7 +18,13 @@ In the VCS we can revert back to our old version if we face any issue in our cur
    .Select components to install (the default settings are usually fine).<br>
    .Choose the default editor used by Git (e.g., Vim, Nano, or Visual Studio Code).<br>
 5.To check if git is installed type git --version in your terminal.It will show you the current version of git.<br>
-6.I downloaded the VS code editer
+6.I downloaded the VS code editer.<br>
+#### Git Configuration:-
+Git uses your name and your email-id to identify who make changes.So first Configure your username and email id.<br>
+1.To set your user name.Type this command.
+  git config --global user.name "xyz"
+2. To set your email.Type this command.
+  git config --global user.email "xyz@gmail.com"
 
 
 
