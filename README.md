@@ -64,13 +64,13 @@ git branch -d branch-name<br>
 6.Deletes a remote branch.<br>
 git push origin --delete branch-name
 
-#### Remote Repository:-#####
+##### Remote Repository:-#####
 A remote repository is a version of your Git repository that is hosted on a server or cloud service. It can be accessed by multiple collaborators over the internet or a network.Allows multiple users to collaborate on a project by pushing and pulling changes to and from the remote repository.
 
-##### Github:-###### 
+##### Github:-##### 
 GitHub is a web-based platform that provides version control and collaborative tools for software development and other types of projects
 
-###### Features:- ######
+##### Features:- #####
 1-Version Control with Git-GitHub Git par aadharit hai, jo ek distributed version control system hai. Git files mein parivartan ko track karta hai aur project ke kai versions ko manage karta hai, jisse sahyog aur code management aasan hota hai.<br>
 2-Repository Hosting:-GitHub repositories (repos) host karta hai jahaan upayogakart apna code aur project files store kar sakte hain. Pratyek repository public ya private ho sakti hai.<br>
 
