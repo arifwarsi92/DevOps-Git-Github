@@ -49,6 +49,7 @@ Git uses your name and your email-id to identify who make changes.So first Confi
 13.Git Pull-This command fetches and merges changes on the remote server to your working directory (git pull link).<br>
 14.Git Push-This command sends the committed changes of master branch to your remote repository (git push variable_name).<br>
 15. Git Clone-This command is use to clone current repository from a remote repo to your local machine. <br>
+16-View Changes in a Specific Commit-git diff <commit-id>^ <commit-id>.<br>
 ### Git Branching & Merging ###
 1.Creates a new branch with the specified name.<br>
 git branch branch_name <br>
