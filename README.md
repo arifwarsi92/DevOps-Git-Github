@@ -22,8 +22,8 @@ In the VCS we can revert back to our old version if we face any issue in our cur
 #### Git Configuration:-
 Git uses your name and your email-id to identify who make changes.So first Configure your username and email id.<br>
 ##### Open your Visual Studio Code and Create a folder named Git Repo or xyz and then click create and once you open it will ask permission click yes.<br>
-#####In this step you simply do right click on the folder you created and select "open in intigrated terminal".#####<br>
-##### Configure User name & user email.
+##### In this step you simply do right click on the folder you created and select "open in intigrated terminal". ##### <br>
+###### Configure User name & user email. ######
 1.To set your user name.Type this command.<br>
    git config --global user.name "xyz".<br>
 2. To set your email.Type this command.<br>
