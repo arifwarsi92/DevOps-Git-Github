@@ -1,1 +1,4 @@
 #### Git Configuration:-
+Git uses your name and your email-id to identify who make changes.So first Configure your username and email id.<br>
+1.###### To set your user name.Type this command.<br>
+  git config --global user_name "XYZ"
