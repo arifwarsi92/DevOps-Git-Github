@@ -22,9 +22,9 @@ In the VCS we can revert back to our old version if we face any issue in our cur
 #### Git Configuration:-
 Git uses your name and your email-id to identify who make changes.So first Configure your username and email id.<br>
 1.To set your user name.Type this command.<br>
-  git config --global user.name "xyz"
+   git config --global user.name "xyz".<br>
 2. To set your email.Type this command.<br>
-  git config --global user.email "xyz@gmail.com"
+   git config --global user.email "xyz@gmail.com"
 
 
 
