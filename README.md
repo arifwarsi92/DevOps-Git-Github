@@ -30,7 +30,7 @@ Git uses your name and your email-id to identify who make changes.So first Confi
    git config --global user.name "xyz".<br>
 3. To set your email.Type this command.<br>
    git config --global user.email "xyz@gmail.com"
-##### Git Commands:- ####
+#### Git Commands:- ####
 1.Git add- Git add file_name (This command adds a file to the staging area) <br>
 2.Git Commit- Git commit command record all the changes made into repository. Creating permanent record in repository 
   history (git commit -m "type msg") <br>
