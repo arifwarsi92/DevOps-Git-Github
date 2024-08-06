@@ -6,7 +6,7 @@ VCS is a tool that keep record the changes we are doing in the files like adding
 In the VCS we can revert back to our old version if we face any issue in our current version.
 ##### Benifits:-
 1.Back-Up & Recovery:- Files are safe from accidental loss.<br>
-2-Collaboration:-Multiple people can work on same project.
+2-Collaboration:-Multiple people can work on same project.<br>
 3.Tracking Changes:- You can check specific changes and by whom.
 
 
